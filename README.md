@@ -1,5 +1,4 @@
 # github-Teampractise
-# GitHub Team Practic
 
 This repository is created to practice Git and GitHub team collaboration.
 
