@@ -1,7 +1,4 @@
 # github-Teampractise
-
-This repository is created to practice Git and GitHub team collaboration.
-
 ## Learning Goals
 
 Git basics
@@ -10,3 +7,5 @@ Pull Requests
 Code Review
 Merge
 Conflict Resolution
+This repository is created to practice Git and GitHub team collaboration.
+
